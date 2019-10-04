@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.service\\rentabike.service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\rentabike.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\rentabike.data.csproj",
+        "projectName": "rentabike.data",
+        "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\rentabike.data.csproj",
+        "packagesPath": "C:\\Users\\Pablo Bravi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Bravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj": {
+                "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj",
+        "projectName": "rentabike.model",
+        "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj",
+        "packagesPath": "C:\\Users\\Pablo Bravi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Bravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.service\\rentabike.service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.service\\rentabike.service.csproj",
+        "projectName": "rentabike.service",
+        "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.service\\rentabike.service.csproj",
+        "packagesPath": "C:\\Users\\Pablo Bravi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Bravi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\rentabike.data.csproj": {
+                "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.data\\rentabike.data.csproj"
+              },
+              "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj": {
+                "projectPath": "C:\\Users\\Pablo Bravi\\Source\\Repos\\rentabike1\\rentabike.model\\rentabike.model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

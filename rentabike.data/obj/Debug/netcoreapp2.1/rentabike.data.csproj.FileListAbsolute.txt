@@ -1,0 +1,12 @@
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\bin\Debug\netcoreapp2.1\rentabike.data.deps.json
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\bin\Debug\netcoreapp2.1\rentabike.data.dll
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\bin\Debug\netcoreapp2.1\rentabike.data.pdb
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\bin\Debug\netcoreapp2.1\rentabike.model.dll
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\bin\Debug\netcoreapp2.1\rentabike.model.pdb
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.csprojAssemblyReference.cache
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.AssemblyInfoInputs.cache
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.AssemblyInfo.cs
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.csproj.CopyComplete
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.dll
+C:\Users\Pablo Bravi\Source\Repos\rentabike1\rentabike.data\obj\Debug\netcoreapp2.1\rentabike.data.pdb
