@@ -12,7 +12,8 @@
 ###### 8. At the moment of the project, no providers for data persistance nor message exchange have been defined 
 
 ## Solution Design:
-###### Solution is separated in 4 layers:
+[Model Diagram] (rentabike.png)
+#### Solution is separated in 4 layers:
 ###### rentabike.model -> Contains model classes for manage Rentals
 ###### rentabike.model.strategies -> Contains Strategy model classes for manage Price calculation and Rental composite
 ###### rentabike.services -> Contains Services to help with Rental Building, Strategy use and Async Messages Processing
@@ -20,7 +21,7 @@
 ###### rentabike.test -> Contains unit test classes
 
 ## Development Practices:
-###### Design Patterns used:
+#### Design Patterns used:
 ###### Composite	(Structural)
 ###### Strategy		(Behavioral)
 ###### Builder		(Creational)
@@ -28,6 +29,6 @@
 ## Unit Testing:
 ###### Unit tests were performed with MSTEST
 ###### For Unit Test Coverage Calculation was used DotCover(ReSharper) - Coverage: 89%
-###### How to run tests:
+#### How to run tests:
 ###### 1.Open Test Explorer (Test->Windows->Test Explorer)
 ###### 2.Run all tests inside rentabike.test
