@@ -12,7 +12,7 @@
 ###### 8. At the moment of the project, no providers for data persistance nor message exchange have been defined 
 
 ## Solution Design:
-![Model Diagram] (rentabike.png)
+![alt text](https://github.com/pbravi/rentabike/blob/master/rentabike.png)
 #### Solution is separated in 4 layers:
 ###### rentabike.model -> Contains model classes for manage Rentals
 ###### rentabike.model.strategies -> Contains Strategy model classes for manage Price calculation and Rental composite
